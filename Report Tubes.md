@@ -89,7 +89,11 @@ Aplikasi visualisasi data berbasis web yang kami buat memiliki beberapa keunggul
 Selain itu adapula kekurangan dari aplikasi visualisasi data berbasis web yang kami buat, di antaranya:
 1. Jenis grafik masih terbatas, dari kami saat ini hanya tersedia tampilan grafik batang sehingga masih kurang untuk pengguna yang membutuhkan grafik berbentuk lainnya.
 2. Tidak ada penyimpanan data sementara, tidak adanya riwayat data yang sudah diunggah sehingga pengguna masih harus mengunggah ulang file setiap kali membuka aplikasi kembali.
-3. Belum tersedia opsi kustomisasi grafik, contohnya seperti ketika ingin mengubah ukuran dari grafik atau elemen lainnya, selain itu juga seperti mengubah warda grafik sesuai dengan kebutuhan pengguna.
+3. Belum tersedia opsi kustomisasi grafik, contohnya seperti ketika ingin mengubah ukuran dari grafik atau elemen lainnya, selain itu juga seperti mengubah warna grafik sesuai dengan kebutuhan pengguna.
+4. Validasi data kurang, program langsung mengambil dua kolom pertama dari file Excel tanpa mengecek tipe data atau nama kolom.
+5. Tidak ada preview data atau pengeditan data, data langsung divisualisasikan begitu file dibaca. Jadi jika pengguna salah memilih file, tidak ada cara untuk memverifikasi data terlebih dahulu.
+
+
 
 Kami berharap program ini dapat menjadi alat bantu visualisasi data yang praktis untuk digunakan, dan dapat terus dikembangkan lagi dengan fitur-fitur lainnya yang lebih menarik dan bemanfaat bagi pengguna.
 
